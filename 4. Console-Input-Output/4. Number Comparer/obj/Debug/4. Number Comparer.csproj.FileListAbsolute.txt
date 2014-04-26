@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\4. Number Comparer\bin\Debug\_4.Number_Comparer.exe
+d:\Projects\4. Console-Input-Output\4. Number Comparer\bin\Debug\_4.Number_Comparer.pdb
+d:\Projects\4. Console-Input-Output\4. Number Comparer\obj\Debug\_4.Number_Comparer.exe
+d:\Projects\4. Console-Input-Output\4. Number Comparer\obj\Debug\_4.Number_Comparer.pdb

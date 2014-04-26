@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.exe
+d:\Projects\4. Console-Input-Output\3. Circle Perimeter and Area\bin\Debug\_3.Circle_Perimeter_and_Area.pdb
+d:\Projects\4. Console-Input-Output\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.exe
+d:\Projects\4. Console-Input-Output\3. Circle Perimeter and Area\obj\Debug\_3.Circle_Perimeter_and_Area.pdb

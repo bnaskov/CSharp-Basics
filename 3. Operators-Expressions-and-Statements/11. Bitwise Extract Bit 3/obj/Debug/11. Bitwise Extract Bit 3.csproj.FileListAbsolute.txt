@@ -1,0 +1,5 @@
+D:\Projects\3. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\Projects\3. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\bin\Debug\_11.Bitwise_Extract_Bit_3.pdb
+D:\Projects\3. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+D:\Projects\3. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.exe
+D:\Projects\3. Operators-Expressions-and-Statements\11. Bitwise Extract Bit 3\obj\Debug\_11.Bitwise_Extract_Bit_3.pdb

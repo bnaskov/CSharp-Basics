@@ -1,0 +1,4 @@
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\2.FloatOrDouble\bin\Debug\2.FloatOrDouble.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\2.FloatOrDouble\obj\Debug\2.FloatOrDouble.pdb

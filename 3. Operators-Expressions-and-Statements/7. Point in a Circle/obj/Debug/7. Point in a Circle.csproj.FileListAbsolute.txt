@@ -1,0 +1,5 @@
+D:\Projects\3. Operators-Expressions-and-Statements\7. Point in a Circle\bin\Debug\_7.Point_in_a_Circle.exe
+D:\Projects\3. Operators-Expressions-and-Statements\7. Point in a Circle\bin\Debug\_7.Point_in_a_Circle.pdb
+D:\Projects\3. Operators-Expressions-and-Statements\7. Point in a Circle\obj\Debug\7. Point in a Circle.csprojResolveAssemblyReference.cache
+D:\Projects\3. Operators-Expressions-and-Statements\7. Point in a Circle\obj\Debug\_7.Point_in_a_Circle.exe
+D:\Projects\3. Operators-Expressions-and-Statements\7. Point in a Circle\obj\Debug\_7.Point_in_a_Circle.pdb

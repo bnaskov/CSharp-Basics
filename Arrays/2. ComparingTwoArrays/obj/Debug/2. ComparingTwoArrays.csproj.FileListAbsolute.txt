@@ -1,0 +1,4 @@
+D:\Projects\Arrays\2. ComparingTwoArrays\bin\Debug\_2.ComparingTwoArrays.exe
+D:\Projects\Arrays\2. ComparingTwoArrays\bin\Debug\_2.ComparingTwoArrays.pdb
+D:\Projects\Arrays\2. ComparingTwoArrays\obj\Debug\_2.ComparingTwoArrays.exe
+D:\Projects\Arrays\2. ComparingTwoArrays\obj\Debug\_2.ComparingTwoArrays.pdb

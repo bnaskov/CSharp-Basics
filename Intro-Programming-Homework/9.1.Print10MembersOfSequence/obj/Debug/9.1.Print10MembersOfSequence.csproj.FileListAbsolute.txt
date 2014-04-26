@@ -1,0 +1,8 @@
+D:\Projects\Intro-Programming-Homework\PrintaSequence\bin\Debug\PrintaSequence.exe
+D:\Projects\Intro-Programming-Homework\PrintaSequence\bin\Debug\PrintaSequence.pdb
+D:\Projects\Intro-Programming-Homework\PrintaSequence\obj\Debug\PrintaSequence.exe
+D:\Projects\Intro-Programming-Homework\PrintaSequence\obj\Debug\PrintaSequence.pdb
+D:\Projects\Intro-Programming-Homework\9.1.Print10MembersOfSequence\obj\Debug\PrintaSequence.exe
+D:\Projects\Intro-Programming-Homework\9.1.Print10MembersOfSequence\obj\Debug\PrintaSequence.pdb
+D:\Projects\Intro-Programming-Homework\9.1.Print10MembersOfSequence\bin\Debug\PrintaSequence.exe
+D:\Projects\Intro-Programming-Homework\9.1.Print10MembersOfSequence\bin\Debug\PrintaSequence.pdb

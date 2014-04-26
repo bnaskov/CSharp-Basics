@@ -1,0 +1,4 @@
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb

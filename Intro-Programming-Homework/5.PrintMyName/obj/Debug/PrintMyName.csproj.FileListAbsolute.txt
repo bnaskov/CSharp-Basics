@@ -1,0 +1,4 @@
+D:\Projects\Intro-Programming-Homework\WriteMyName\bin\Debug\WriteMyName.exe
+D:\Projects\Intro-Programming-Homework\WriteMyName\bin\Debug\WriteMyName.pdb
+D:\Projects\Intro-Programming-Homework\WriteMyName\obj\Debug\WriteMyName.exe
+D:\Projects\Intro-Programming-Homework\WriteMyName\obj\Debug\WriteMyName.pdb

@@ -1,0 +1,4 @@
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\111.ASCIITable\bin\Debug\111.ASCIITable.exe
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\111.ASCIITable\bin\Debug\111.ASCIITable.pdb
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\111.ASCIITable\obj\Debug\111.ASCIITable.exe
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\111.ASCIITable\obj\Debug\111.ASCIITable.pdb

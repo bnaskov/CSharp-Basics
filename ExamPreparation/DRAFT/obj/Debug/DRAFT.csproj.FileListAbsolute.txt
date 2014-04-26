@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\DRAFT\obj\Debug\DRAFT.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\DRAFT\bin\Debug\DRAFT.exe
+D:\Projects\ExamPreparation\DRAFT\bin\Debug\DRAFT.pdb
+D:\Projects\ExamPreparation\DRAFT\obj\Debug\DRAFT.exe
+D:\Projects\ExamPreparation\DRAFT\obj\Debug\DRAFT.pdb

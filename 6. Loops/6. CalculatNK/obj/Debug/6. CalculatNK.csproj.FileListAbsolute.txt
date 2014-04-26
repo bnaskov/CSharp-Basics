@@ -1,0 +1,5 @@
+D:\Projects\6. Loops\6. CalculatNK\bin\Debug\_6.CalculatNK.exe
+D:\Projects\6. Loops\6. CalculatNK\bin\Debug\_6.CalculatNK.pdb
+D:\Projects\6. Loops\6. CalculatNK\obj\Debug\_6.CalculatNK.exe
+D:\Projects\6. Loops\6. CalculatNK\obj\Debug\_6.CalculatNK.pdb
+D:\Projects\6. Loops\6. CalculatNK\obj\Debug\6. CalculatNK.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\3.HexadecimalFormat\bin\Debug\3.HexadecimalFormat.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\3.HexadecimalFormat\bin\Debug\3.HexadecimalFormat.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\3.HexadecimalFormat\obj\Debug\3.HexadecimalFormat.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\3.HexadecimalFormat\obj\Debug\3.HexadecimalFormat.pdb

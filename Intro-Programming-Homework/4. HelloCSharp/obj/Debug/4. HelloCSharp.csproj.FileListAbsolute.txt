@@ -1,0 +1,4 @@
+D:\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Projects\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\ConsoleApplication1.exe
+D:\Projects\Intro-Programming-Homework\4. HelloCSharp\obj\Debug\ConsoleApplication1.pdb

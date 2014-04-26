@@ -1,0 +1,5 @@
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\1. DeclareVariables\obj\Debug\1. DeclareVariables.csprojResolveAssemblyReference.cache
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\1. DeclareVariables\bin\Debug\_1.DeclareVariables.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\1. DeclareVariables\bin\Debug\_1.DeclareVariables.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\1. DeclareVariables\obj\Debug\_1.DeclareVariables.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\1. DeclareVariables\obj\Debug\_1.DeclareVariables.pdb

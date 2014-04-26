@@ -1,0 +1,5 @@
+d:\Projects\3. Operators-Expressions-and-Statements\3. Divide by 7 and 5\bin\Debug\_3.Divide_by_7_and_5.exe
+d:\Projects\3. Operators-Expressions-and-Statements\3. Divide by 7 and 5\bin\Debug\_3.Divide_by_7_and_5.pdb
+d:\Projects\3. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\3. Divide by 7 and 5.csprojResolveAssemblyReference.cache
+d:\Projects\3. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\_3.Divide_by_7_and_5.exe
+d:\Projects\3. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\_3.Divide_by_7_and_5.pdb

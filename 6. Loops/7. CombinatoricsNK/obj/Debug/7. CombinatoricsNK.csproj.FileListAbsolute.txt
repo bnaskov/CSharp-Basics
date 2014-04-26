@@ -1,0 +1,5 @@
+D:\Projects\6. Loops\7. CombinatoricsNK\bin\Debug\_7.CombinatoricsNK.exe
+D:\Projects\6. Loops\7. CombinatoricsNK\bin\Debug\_7.CombinatoricsNK.pdb
+D:\Projects\6. Loops\7. CombinatoricsNK\obj\Debug\_7.CombinatoricsNK.exe
+D:\Projects\6. Loops\7. CombinatoricsNK\obj\Debug\_7.CombinatoricsNK.pdb
+D:\Projects\6. Loops\7. CombinatoricsNK\obj\Debug\7. CombinatoricsNK.csprojResolveAssemblyReference.cache

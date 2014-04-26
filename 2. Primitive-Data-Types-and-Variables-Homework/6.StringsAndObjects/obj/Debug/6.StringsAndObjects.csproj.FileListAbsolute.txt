@@ -1,0 +1,5 @@
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\6.StringsAndObjects\bin\Debug\6.StringsAndObjects.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.exe
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.pdb
+d:\Projects\2. Primitive-Data-Types-and-Variables-Homework\6.StringsAndObjects\obj\Debug\6.StringsAndObjects.csprojResolveAssemblyReference.cache

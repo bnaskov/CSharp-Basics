@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\9. Sum of n Numbers\bin\Debug\_9.Sum_of_n_Numbers.exe
+d:\Projects\4. Console-Input-Output\9. Sum of n Numbers\bin\Debug\_9.Sum_of_n_Numbers.pdb
+d:\Projects\4. Console-Input-Output\9. Sum of n Numbers\obj\Debug\_9.Sum_of_n_Numbers.exe
+d:\Projects\4. Console-Input-Output\9. Sum of n Numbers\obj\Debug\_9.Sum_of_n_Numbers.pdb

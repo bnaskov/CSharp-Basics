@@ -1,0 +1,5 @@
+d:\Projects\3. Operators-Expressions-and-Statements\1.1. Odd or Even Integers\bin\Debug\_1._1.Odd_or_Even_Integers.exe
+d:\Projects\3. Operators-Expressions-and-Statements\1.1. Odd or Even Integers\bin\Debug\_1._1.Odd_or_Even_Integers.pdb
+d:\Projects\3. Operators-Expressions-and-Statements\1.1. Odd or Even Integers\obj\Debug\1.1. Odd or Even Integers.csprojResolveAssemblyReference.cache
+d:\Projects\3. Operators-Expressions-and-Statements\1.1. Odd or Even Integers\obj\Debug\_1._1.Odd_or_Even_Integers.exe
+d:\Projects\3. Operators-Expressions-and-Statements\1.1. Odd or Even Integers\obj\Debug\_1._1.Odd_or_Even_Integers.pdb

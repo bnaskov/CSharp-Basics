@@ -1,0 +1,4 @@
+D:\Projects\Intro-Programming-Homework\PrintFirst+LastName\bin\Debug\PrintFirst+LastName.exe
+D:\Projects\Intro-Programming-Homework\PrintFirst+LastName\bin\Debug\PrintFirst+LastName.pdb
+D:\Projects\Intro-Programming-Homework\PrintFirst+LastName\obj\Debug\PrintFirst+LastName.exe
+D:\Projects\Intro-Programming-Homework\PrintFirst+LastName\obj\Debug\PrintFirst+LastName.pdb

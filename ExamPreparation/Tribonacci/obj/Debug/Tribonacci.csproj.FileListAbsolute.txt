@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\Tribonacci\obj\Debug\Tribonacci.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\Tribonacci\bin\Debug\Tribonacci.exe
+D:\Projects\ExamPreparation\Tribonacci\bin\Debug\Tribonacci.pdb
+D:\Projects\ExamPreparation\Tribonacci\obj\Debug\Tribonacci.exe
+D:\Projects\ExamPreparation\Tribonacci\obj\Debug\Tribonacci.pdb

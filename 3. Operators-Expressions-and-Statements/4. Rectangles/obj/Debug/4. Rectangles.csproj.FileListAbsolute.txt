@@ -1,0 +1,5 @@
+d:\Projects\3. Operators-Expressions-and-Statements\4. Rectangles\bin\Debug\_4.Rectangles.exe
+d:\Projects\3. Operators-Expressions-and-Statements\4. Rectangles\bin\Debug\_4.Rectangles.pdb
+d:\Projects\3. Operators-Expressions-and-Statements\4. Rectangles\obj\Debug\_4.Rectangles.exe
+d:\Projects\3. Operators-Expressions-and-Statements\4. Rectangles\obj\Debug\_4.Rectangles.pdb
+D:\Projects\3. Operators-Expressions-and-Statements\4. Rectangles\obj\Debug\4. Rectangles.csprojResolveAssemblyReference.cache

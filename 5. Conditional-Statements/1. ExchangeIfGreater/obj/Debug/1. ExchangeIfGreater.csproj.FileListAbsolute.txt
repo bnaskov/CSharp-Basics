@@ -1,0 +1,7 @@
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\1. ExchangeIfGreater\bin\Debug\_1.ExchangeIfGreater.exe
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\1. ExchangeIfGreater\bin\Debug\_1.ExchangeIfGreater.pdb
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\1. ExchangeIfGreater\obj\Debug\1. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.exe
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.pdb
+D:\Projects\5. Conditional-Statements\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.exe
+D:\Projects\5. Conditional-Statements\1. ExchangeIfGreater\obj\Debug\_1.ExchangeIfGreater.pdb

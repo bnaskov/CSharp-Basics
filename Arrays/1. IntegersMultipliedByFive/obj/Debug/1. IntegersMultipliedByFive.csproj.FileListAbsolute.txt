@@ -1,0 +1,5 @@
+D:\Projects\Arrays\1. IntegersMultipliedByFive\obj\Debug\1. IntegersMultipliedByFive.csprojResolveAssemblyReference.cache
+D:\Projects\Arrays\1. IntegersMultipliedByFive\bin\Debug\_1.IntegersMultipliedByFive.exe
+D:\Projects\Arrays\1. IntegersMultipliedByFive\bin\Debug\_1.IntegersMultipliedByFive.pdb
+D:\Projects\Arrays\1. IntegersMultipliedByFive\obj\Debug\_1.IntegersMultipliedByFive.exe
+D:\Projects\Arrays\1. IntegersMultipliedByFive\obj\Debug\_1.IntegersMultipliedByFive.pdb

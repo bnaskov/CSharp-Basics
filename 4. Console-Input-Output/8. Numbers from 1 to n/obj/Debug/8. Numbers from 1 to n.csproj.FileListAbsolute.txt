@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.exe
+d:\Projects\4. Console-Input-Output\8. Numbers from 1 to n\bin\Debug\_8.Numbers_from_1_to_n.pdb
+d:\Projects\4. Console-Input-Output\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.exe
+d:\Projects\4. Console-Input-Output\8. Numbers from 1 to n\obj\Debug\_8.Numbers_from_1_to_n.pdb

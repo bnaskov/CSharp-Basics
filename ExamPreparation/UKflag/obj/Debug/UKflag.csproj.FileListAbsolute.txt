@@ -1,0 +1,4 @@
+D:\Projects\ExamPreparation\UKflag\bin\Debug\UKflag.exe
+D:\Projects\ExamPreparation\UKflag\bin\Debug\UKflag.pdb
+D:\Projects\ExamPreparation\UKflag\obj\Debug\UKflag.exe
+D:\Projects\ExamPreparation\UKflag\obj\Debug\UKflag.pdb

@@ -1,0 +1,16 @@
+using System;
+ 
+namespace ObjectToStringCast
+{
+        class ObjectToStringCast
+        {
+                static void Main()
+                {
+                        const string helloPart = "Hello";
+                        const string worldPart = "World";
+                        object greeting = string.Format("{0}, {1}!", helloPart, worldPart);
+                        string greetingString = greeting.ToString();
+                        Console.WriteLine(greetingString);
+                }
+        }
+}

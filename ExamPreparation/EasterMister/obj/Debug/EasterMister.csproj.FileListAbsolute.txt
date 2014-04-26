@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\EasterMister\bin\Debug\EasterMister.exe
+D:\Projects\ExamPreparation\EasterMister\bin\Debug\EasterMister.pdb
+D:\Projects\ExamPreparation\EasterMister\obj\Debug\EasterMister.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\EasterMister\obj\Debug\EasterMister.exe
+D:\Projects\ExamPreparation\EasterMister\obj\Debug\EasterMister.pdb

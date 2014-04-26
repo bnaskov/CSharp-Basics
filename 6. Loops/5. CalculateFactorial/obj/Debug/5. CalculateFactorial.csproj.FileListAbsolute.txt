@@ -1,0 +1,5 @@
+D:\Projects\6. Loops\5. CalculateFactorial\bin\Debug\_5.CalculateFactorial.exe
+D:\Projects\6. Loops\5. CalculateFactorial\bin\Debug\_5.CalculateFactorial.pdb
+D:\Projects\6. Loops\5. CalculateFactorial\obj\Debug\_5.CalculateFactorial.exe
+D:\Projects\6. Loops\5. CalculateFactorial\obj\Debug\_5.CalculateFactorial.pdb
+D:\Projects\6. Loops\5. CalculateFactorial\obj\Debug\5. CalculateFactorial.csprojResolveAssemblyReference.cache

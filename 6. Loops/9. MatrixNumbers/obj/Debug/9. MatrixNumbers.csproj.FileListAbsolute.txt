@@ -1,0 +1,5 @@
+D:\Projects\6. Loops\9. MatrixNumbers\bin\Debug\_9.MatrixNumbers.exe
+D:\Projects\6. Loops\9. MatrixNumbers\bin\Debug\_9.MatrixNumbers.pdb
+D:\Projects\6. Loops\9. MatrixNumbers\obj\Debug\_9.MatrixNumbers.exe
+D:\Projects\6. Loops\9. MatrixNumbers\obj\Debug\_9.MatrixNumbers.pdb
+D:\Projects\6. Loops\9. MatrixNumbers\obj\Debug\9. MatrixNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Projects\6. Loops\5. Print All Cards\bin\Debug\_5.Print_All_Cards.exe
+D:\Projects\6. Loops\5. Print All Cards\bin\Debug\_5.Print_All_Cards.pdb
+D:\Projects\6. Loops\5. Print All Cards\obj\Debug\_5.Print_All_Cards.exe
+D:\Projects\6. Loops\5. Print All Cards\obj\Debug\_5.Print_All_Cards.pdb

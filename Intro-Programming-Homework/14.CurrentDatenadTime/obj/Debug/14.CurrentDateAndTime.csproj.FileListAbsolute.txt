@@ -1,0 +1,5 @@
+D:\Projects\Intro-Programming-Homework\14.CurrentDatenadTime\bin\Debug\14.CurrentDatenadTime.exe
+D:\Projects\Intro-Programming-Homework\14.CurrentDatenadTime\bin\Debug\14.CurrentDatenadTime.pdb
+D:\Projects\Intro-Programming-Homework\14.CurrentDatenadTime\obj\Debug\14.CurrentDateAndTime.csprojResolveAssemblyReference.cache
+D:\Projects\Intro-Programming-Homework\14.CurrentDatenadTime\obj\Debug\14.CurrentDatenadTime.exe
+D:\Projects\Intro-Programming-Homework\14.CurrentDatenadTime\obj\Debug\14.CurrentDatenadTime.pdb

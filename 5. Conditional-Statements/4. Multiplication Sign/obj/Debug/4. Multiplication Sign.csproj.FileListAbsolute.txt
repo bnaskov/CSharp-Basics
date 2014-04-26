@@ -1,0 +1,5 @@
+D:\Projects\5. Conditional-Statements\4. Multiplication Sign\obj\Debug\4. Multiplication Sign.csprojResolveAssemblyReference.cache
+D:\Projects\5. Conditional-Statements\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.exe
+D:\Projects\5. Conditional-Statements\4. Multiplication Sign\bin\Debug\_4.Multiplication_Sign.pdb
+D:\Projects\5. Conditional-Statements\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.exe
+D:\Projects\5. Conditional-Statements\4. Multiplication Sign\obj\Debug\_4.Multiplication_Sign.pdb

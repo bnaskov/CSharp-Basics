@@ -1,0 +1,4 @@
+D:\Projects\ExamPreparation\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.exe
+D:\Projects\ExamPreparation\KaspichaniaBoats\bin\Debug\KaspichaniaBoats.pdb
+D:\Projects\ExamPreparation\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.exe
+D:\Projects\ExamPreparation\KaspichaniaBoats\obj\Debug\KaspichaniaBoats.pdb

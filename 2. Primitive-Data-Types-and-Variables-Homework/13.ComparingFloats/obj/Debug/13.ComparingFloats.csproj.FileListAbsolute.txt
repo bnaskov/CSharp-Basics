@@ -1,0 +1,4 @@
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
+D:\Projects\2. Primitive-Data-Types-and-Variables-Homework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

@@ -1,0 +1,4 @@
+D:\Projects\ExamPreparation\OnesAndZeroes\bin\Debug\OnesAndZeroes.exe
+D:\Projects\ExamPreparation\OnesAndZeroes\bin\Debug\OnesAndZeroes.pdb
+D:\Projects\ExamPreparation\OnesAndZeroes\obj\Debug\OnesAndZeroes.exe
+D:\Projects\ExamPreparation\OnesAndZeroes\obj\Debug\OnesAndZeroes.pdb

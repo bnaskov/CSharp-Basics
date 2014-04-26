@@ -1,0 +1,2 @@
+D:\Projects\3. Operators-Expressions-and-Statements\13. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+D:\Projects\3. Operators-Expressions-and-Statements\13. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

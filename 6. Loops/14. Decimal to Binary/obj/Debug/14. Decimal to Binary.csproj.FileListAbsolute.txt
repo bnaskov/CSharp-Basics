@@ -1,0 +1,5 @@
+D:\Projects\6. Loops\14. Decimal to Binary\bin\Debug\_14.Decimal_to_Binary.exe
+D:\Projects\6. Loops\14. Decimal to Binary\bin\Debug\_14.Decimal_to_Binary.pdb
+D:\Projects\6. Loops\14. Decimal to Binary\obj\Debug\_14.Decimal_to_Binary.exe
+D:\Projects\6. Loops\14. Decimal to Binary\obj\Debug\_14.Decimal_to_Binary.pdb
+D:\Projects\6. Loops\14. Decimal to Binary\obj\Debug\14. Decimal to Binary.csprojResolveAssemblyReference.cache

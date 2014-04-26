@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe
+d:\Projects\4. Console-Input-Output\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.pdb
+d:\Projects\4. Console-Input-Output\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.exe
+d:\Projects\4. Console-Input-Output\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.pdb

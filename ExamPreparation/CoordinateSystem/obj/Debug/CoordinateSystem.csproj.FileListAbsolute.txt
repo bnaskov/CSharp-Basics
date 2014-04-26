@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\CoordinateSystem\bin\Debug\CoordinateSystem.exe
+D:\Projects\ExamPreparation\CoordinateSystem\bin\Debug\CoordinateSystem.pdb
+D:\Projects\ExamPreparation\CoordinateSystem\obj\Debug\CoordinateSystem.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\CoordinateSystem\obj\Debug\CoordinateSystem.exe
+D:\Projects\ExamPreparation\CoordinateSystem\obj\Debug\CoordinateSystem.pdb

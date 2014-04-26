@@ -1,0 +1,6 @@
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\bin\Debug\_3.Check_for_a_Play_Card.exe.config
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\obj\Debug\3. Check for a Play Card.csprojResolveAssemblyReference.cache
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\bin\Debug\_3.Check_for_a_Play_Card.exe
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\bin\Debug\_3.Check_for_a_Play_Card.pdb
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\obj\Debug\_3.Check_for_a_Play_Card.exe
+D:\Projects\5. Conditional-Statements\3. Check for a Play Card\obj\Debug\_3.Check_for_a_Play_Card.pdb

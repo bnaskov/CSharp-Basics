@@ -1,0 +1,5 @@
+d:\Projects\4. Console-Input-Output\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe
+d:\Projects\4. Console-Input-Output\2. Print Company Information\bin\Debug\_2.Print_Company_Information.pdb
+d:\Projects\4. Console-Input-Output\2. Print Company Information\obj\Debug\_2.Print_Company_Information.exe
+d:\Projects\4. Console-Input-Output\2. Print Company Information\obj\Debug\_2.Print_Company_Information.pdb
+d:\Projects\4. Console-Input-Output\2. Print Company Information\obj\Debug\2. Print Company Information.csprojResolveAssemblyReference.cache

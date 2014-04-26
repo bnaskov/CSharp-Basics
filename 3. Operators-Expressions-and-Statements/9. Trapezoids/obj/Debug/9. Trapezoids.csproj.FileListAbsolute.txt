@@ -1,0 +1,4 @@
+D:\Projects\3. Operators-Expressions-and-Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.exe
+D:\Projects\3. Operators-Expressions-and-Statements\9. Trapezoids\bin\Debug\_9.Trapezoids.pdb
+D:\Projects\3. Operators-Expressions-and-Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.exe
+D:\Projects\3. Operators-Expressions-and-Statements\9. Trapezoids\obj\Debug\_9.Trapezoids.pdb

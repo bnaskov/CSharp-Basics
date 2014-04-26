@@ -1,0 +1,4 @@
+d:\Projects\4. Console-Input-Output\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+d:\Projects\4. Console-Input-Output\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+d:\Projects\4. Console-Input-Output\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+d:\Projects\4. Console-Input-Output\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

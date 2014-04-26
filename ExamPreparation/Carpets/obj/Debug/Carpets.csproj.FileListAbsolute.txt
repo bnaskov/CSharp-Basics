@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\Carpets\bin\Debug\Carpets.exe
+D:\Projects\ExamPreparation\Carpets\bin\Debug\Carpets.pdb
+D:\Projects\ExamPreparation\Carpets\obj\Debug\Carpets.exe
+D:\Projects\ExamPreparation\Carpets\obj\Debug\Carpets.pdb

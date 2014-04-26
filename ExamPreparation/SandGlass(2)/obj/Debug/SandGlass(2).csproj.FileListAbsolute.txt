@@ -1,0 +1,5 @@
+D:\Projects\ExamPreparation\SandGlass(2)\obj\Debug\SandGlass(2).csprojResolveAssemblyReference.cache
+D:\Projects\ExamPreparation\SandGlass(2)\bin\Debug\SandGlass(2).exe
+D:\Projects\ExamPreparation\SandGlass(2)\bin\Debug\SandGlass(2).pdb
+D:\Projects\ExamPreparation\SandGlass(2)\obj\Debug\SandGlass(2).exe
+D:\Projects\ExamPreparation\SandGlass(2)\obj\Debug\SandGlass(2).pdb

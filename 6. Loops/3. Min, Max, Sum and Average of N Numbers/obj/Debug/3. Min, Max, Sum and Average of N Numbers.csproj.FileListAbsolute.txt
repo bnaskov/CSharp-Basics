@@ -1,0 +1,4 @@
+D:\Projects\6. Loops\3. Min, Max, Sum and Average of N Numbers\bin\Debug\_3.Min__Max__Sum_and_Average_of_N_Numbers.exe
+D:\Projects\6. Loops\3. Min, Max, Sum and Average of N Numbers\bin\Debug\_3.Min__Max__Sum_and_Average_of_N_Numbers.pdb
+D:\Projects\6. Loops\3. Min, Max, Sum and Average of N Numbers\obj\Debug\_3.Min__Max__Sum_and_Average_of_N_Numbers.exe
+D:\Projects\6. Loops\3. Min, Max, Sum and Average of N Numbers\obj\Debug\_3.Min__Max__Sum_and_Average_of_N_Numbers.pdb

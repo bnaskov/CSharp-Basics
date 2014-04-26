@@ -1,0 +1,4 @@
+D:\Projects\ExamPreparation\CowsAndBulls\bin\Debug\CowsAndBulls.exe
+D:\Projects\ExamPreparation\CowsAndBulls\bin\Debug\CowsAndBulls.pdb
+D:\Projects\ExamPreparation\CowsAndBulls\obj\Debug\CowsAndBulls.exe
+D:\Projects\ExamPreparation\CowsAndBulls\obj\Debug\CowsAndBulls.pdb

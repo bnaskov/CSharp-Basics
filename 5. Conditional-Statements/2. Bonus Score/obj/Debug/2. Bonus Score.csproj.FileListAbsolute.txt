@@ -1,0 +1,6 @@
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\2. Bonus Score\bin\Debug\_2.Bonus_Score.pdb
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.exe
+c:\users\boni misliashki\documents\visual studio 2013\Projects\5. Conditional-Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.pdb
+D:\Projects\5. Conditional-Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.exe
+D:\Projects\5. Conditional-Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.pdb
